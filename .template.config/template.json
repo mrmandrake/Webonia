@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "mrmandrake",
+    "classifications": [ "Webassembly", "Web", "Avalonia" ],
+    "identity": "Avalonia.Webonia",
+    "name": "Example template for avalonia web app",
+    "shortName": "webonia",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    }
+  }
+  

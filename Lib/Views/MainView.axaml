@@ -1,0 +1,6 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+        xmlns:pages="clr-namespace:ControlCatalog.Pages"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="Webonia.Lib.Views.MainView">
+    <TextBlock Text="Welcome to Webonia!!" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+</UserControl>
